@@ -1,0 +1,10 @@
+.buttonStyle {
+  background-color: yellow;
+  @apply text-likeRed;
+}
+
+.divStyle {
+  width: 200px;
+  height: 200px;
+  @apply bg-likeBlue;
+}
